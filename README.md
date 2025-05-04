@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 
-Build a simplified end-to-end data pipeline to mimic a real-world operational use case for a loan collections call campaign. The pipeline performs ingestion, validation, transformation, and reporting on call data.
+Build a simplified end-to-end data pipeline to mimic a real-world operational use case for a loan collections call campaign. The pipeline performs ingestion, validation, transformation, and reporting on call data.(https://www.youtube.com/watch?v=kHCgHTOIhiI) live link
 
 ---
 
